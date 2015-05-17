@@ -1,15 +1,12 @@
 # crawl-screenshot
 crawl a website, make screenshots and make visual diffs between different crawl jobs 
 
-
 makes use of
 	-) iojs (node.js won't probably not work, because jsdom requires iojs and native iojs promises are used)
 	-) koajs
 	-) mysql for node
 	-) a lot of koa libraries 
  
-
-
 required software
 	-) imagemagick
 	-) phantomjs
